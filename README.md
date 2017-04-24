@@ -14,4 +14,4 @@ I'm displaying the current temperature, humidity, and CO2 content in the room vi
 
 It is a typical python plugin for dreambox. You need to place the files in the following directory:
 /usr/lib/enigma2/python/Plugins/Extensions/SensorData/
-In addition, also create an empty \_\_init\_\_.py" file in this folder and restart the dreambox to activate the plugin via remote control under system settings.
+In addition, also create an empty \_\_init\_\_.py file in this folder and restart the dreambox to activate the plugin via remote control under system settings.
