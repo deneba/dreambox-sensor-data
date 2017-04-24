@@ -1,4 +1,4 @@
-# sensordata
+# sensor-data
 Sensor Data Plugin for Dreambox (Enigma2)
 
 This plugin shows a string of sensor data permanently on the dreambox screen, similar to the permanent clock plugin. In fact, this is based on the permanent clock plugin.
